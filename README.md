@@ -43,7 +43,7 @@ hello-world/
    First, clone the repository to your local machine. Open your terminal and run the following command:
 
    ```sh
-   git clone https://github.com/coder50yo/python/hello-world.git
+   git clone https://github.com/coder50yo/python-hello-world.git
    ```
 
 2. **Navigate to the Project Directory**
